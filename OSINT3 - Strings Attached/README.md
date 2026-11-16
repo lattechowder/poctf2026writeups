@@ -18,8 +18,8 @@ After submitting the year from the following solution, you get the flag.
 
 ## Solution
 
-1. Search for Michael Romaniello’s (the title on the challenge page) art and find https://www.michaelromaniello.com/portfolio which matches the fine artist and illustrator.
-2. Open the hamburger menu on the top right to the Portfolio page.
+1. Search for Michael Romaniello’s (the title on the challenge page) art and find https://www.michaelromaniello.com which matches the fine artist and illustrator.
+2. Open the hamburger menu on the top right to the Portfolio page. (https://www.michaelromaniello.com/portfolio)
 3. Go through the different artworks and find the exact title **“I Dreamt I was a Child II”** in the portfolio. Its gallery description is **“2015\nAcrylic on canvas”**. The first line gives the artwork’s year: **2015**.
 
 ![Portfolio screenshot showing the artwork title and 2015 date](./portfolio-evidence.png)
