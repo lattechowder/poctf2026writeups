@@ -1,8 +1,5 @@
 # POCTF 2026 — Strings Attached
 
-OSINT3
-## Strings Attached
-
 ## Challenge Page Description:
 
 ### Michael Romaniello
