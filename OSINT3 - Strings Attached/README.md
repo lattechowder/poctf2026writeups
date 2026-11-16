@@ -3,6 +3,8 @@
 OSINT3
 ## Strings Attached
 
+## Challenge Page Description:
+
 ### Michael Romaniello
 I love ttrpgs. Sort of. I'll explain.
 
@@ -13,7 +15,6 @@ As a kid, ttrpgs kick-started my imagination. I started building stories and map
 Even today, I remain inspired by how these games can provide respite and bring out creative energies that are otherwise so often repressed for the sake of the dull task at hand. Our subject today is an excellent example, I feel. And as someone that has read every monster manual from AD&D to 5.5, there is NOTHING more powerful than a wizard with a gun.
 
 Remember, for these you are looking for the ANSWER to the question(s) below.**
-"""
 
 The question on the https://pointeroverflowctf.com/challenges/strings-attached/ page is "In what year was 'I Dreamt I was a Child II' completed?"
 After submitting the year from the following solution, you get the flag.
